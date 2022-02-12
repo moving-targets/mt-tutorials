@@ -1,0 +1,4 @@
+gurobipy
+jupyter
+moving-targets
+seaborn
