@@ -1,4 +1,6 @@
+cvxpy
 gurobipy
 jupyter
 moving-targets
 seaborn
+tensorflow
