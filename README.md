@@ -9,6 +9,7 @@ In order to run these tutorials, you will need to install the following packages
 * `jupyter`
 * `moving-targets`
 * `seaborn`
+* `tensorflow`
 
 via the command `pip install -r requirements.txt`.
 
